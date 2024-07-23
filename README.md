@@ -1,4 +1,4 @@
-# Advent-Of-Code-2023
+# Advent of code 2023
 
 ## About
 Advent of code is an annual world code challenge.
